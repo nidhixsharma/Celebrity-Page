@@ -1,0 +1,25 @@
+
+body {
+  background-color: #a3d5;
+}
+p{
+  font-size:16px;
+  color:blue;
+}
+.red-text{
+  color:red;
+  align:center;
+  font-family:cursive;
+  
+}
+.green-text{
+  color:green;
+  align:center;
+  font-size:16px;
+  }
+  .purple-text{
+    color:purple;
+    font-family:monospace;
+    
+  }
+   
